@@ -1,0 +1,7 @@
+domain: tutorial.kubebuilder.io
+repo: kubebuilder/learn
+resources:
+- group: batch
+  kind: CronJob
+  version: v1
+version: "2"
